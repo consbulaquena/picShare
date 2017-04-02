@@ -7,5 +7,7 @@ Takes a photo and displays the image.
 
 PicShare is a photo app that allows you to select from the iOS Photo library and able to take a picture from the camera.
 
+###Compatibility with Swift
+
 
 
