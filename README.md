@@ -12,4 +12,3 @@ PicShare is a photo app that allows you to select from the iOS Photo library and
 The app currently compiles with <b>Xcode 8.0</b> or the <b>Swift 3.0</b>.
 
 ![alt tag](https://cloud.githubusercontent.com/assets/10540496/24588858/14ed4f82-1803-11e7-99fb-11ac9f643ffd.png)
-
