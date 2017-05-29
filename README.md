@@ -1,6 +1,5 @@
-# picShare [![Swift](https://img.shields.io/badge/Swift-3.0-orange.svg)]() [![Platform](https://img.shields.io/badge/platform-iOS-lightgrey.svg)]()
-
 ![alt tag](https://cloud.githubusercontent.com/assets/10540496/24588820/8a754f4e-1802-11e7-9694-455392471be1.png)
+(https://img.shields.io/badge/Swift-3.0-orange.svg)]() [![Platform](https://img.shields.io/badge/platform-iOS-lightgrey.svg)]()
 
 PicShare is a photo app that allows you to select from the iOS Photo library and able to take a picture using the iPhone camera.
 
